@@ -2,7 +2,7 @@
 
 **My name is Marina aka chatdepallas** (because I love the Pallas's cats or `les chats de Pallas` in French 🐾)
 
-### I ('m'):
+### I ('m):
 - 👩‍🎓 graduated from Saint Petersburg State University;
 - 🎭 currently working in culture;
 - 📊 adore analyzing and visualizing data;
