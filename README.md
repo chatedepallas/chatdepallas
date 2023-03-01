@@ -1,12 +1,9 @@
-# 👋 Hello, everyone!
+# Hello, everyone!
 
-**My name is Marina aka chatdepallas** (because I love the Pallas's cats or `les chats de Pallas` in French 🐾)
-
-### I ('m):
-- 👩‍🎓 graduated from Saint Petersburg State University;
-- 🎭 currently working in culture;
-- 📊 adore analyzing and visualizing data;
-- 🎹✈️ interested in music and aviation;
+### My name is Marina, I'm:
+- graduated from Saint Petersburg State University;
+- in love with analyzing and visualizing data;
+- interested in diplomacy, music and aviation;
 
 ### My languages and tools
 
