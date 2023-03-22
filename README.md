@@ -3,7 +3,7 @@
 ### My name is Marina, I'm:
 - graduated from Saint Petersburg State University;
 - in love with analyzing and visualizing data;
-- interested in diplomacy, music and aviation;
+- interested in cultural diplomacy, music and aviation;
 
 ### My languages and tools
 
